@@ -1,3 +1,0 @@
-pyrebase4
-numpy
-scipy
