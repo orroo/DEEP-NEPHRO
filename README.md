@@ -91,6 +91,9 @@ pip install -r requirements.txt  // dependencies first
 python fb2mat_synth.py
 ```
 ## Acknowledgments
+
+## Esprit School of Engineering
+
 This project was completed under the guidance of [Professor Sonia MESBEH
 ](mailto:sonia.mesbeh@esprit.tn) and [Professor Jihene Hlel
 ](mailto:jihene.hlel@esprit.tn)   at Esprit School of Engineering.
