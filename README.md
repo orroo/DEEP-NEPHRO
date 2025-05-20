@@ -43,12 +43,13 @@ By combining medical knowledge, machine learning, and web technologies, DEEP_NEP
 ---
 
 ## 📁 Directory Structure
--**DEEP_NEPHRO/main**
--**├── biosignals_fb_to_mat_file-main/ # Script to keep iot data updated for our monitoring**
--**├── flask app/ # flask api for predictions **
--**├── project/ # our main website files **
--**├── requirements.txt # Python dependencies**
--**├── README.md # Project documentation**
+DEEP_NEPHRO/
+├── biosignals_fb_to_mat_file-main/   # Script to keep IoT data updated for our monitoring
+├── flask app/                         # Flask API for predictions
+├── project/                           # Main website (Django project)
+├── requirements.txt                   # Python dependencies
+├── README.md                          # Project documentation
+
 
 
 ---
