@@ -60,31 +60,36 @@ DEEP_NEPHRO/
 ### 🛠️ Installation Steps
 
 1. **Clone the repository**:
-
+```bash
 git clone https://github.com/your-username/DEEP_NEPHRO.git
 cd DEEP_NEPHRO
+```
 
 2. **Set up Python environment and install dependencies**:
+```bash
 Set up Python backend:
 python -m venv venv
 venv/Scripts/activate
 pip install -r requirements.txt
-
+```
 
 3. **Run the Django backend with Daphne (ASGI server)**:
+```bash
 cd project
 daphne project.asgi:application
+```
 
-
-4. **Run the Flask app (if included as a microservice)**:
+5. **Run the Flask app (if included as a microservice)**:
+```bash
 cd ../"flask app"
 python app.py
-
-5. **Run The IoT Data Updating Script**:
+```
+6. **Run The IoT Data Updating Script**:
+```bash
 cd ../biosignals_fb_to_mat_file-main
 pip install -r requirements.txt  // dependencies first
 python fb2mat_synth.py
-
+```
 ## Acknowledgments
 This project was completed under the guidance of [Professor Sonia MESBEH
 ](mailto:sonia.mesbeh@esprit.tn) and [Professor Jihene Hlel
