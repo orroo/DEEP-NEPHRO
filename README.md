@@ -26,10 +26,10 @@ By combining medical knowledge, machine learning, and web technologies, DEEP_NEP
 ## 🧰 Tech Stack
 
 ### Frontend
-- **Django** –
+- **Django** 
 
 ### Backend
-- **Django** – 
+- **Django** 
 - **WebSockets** – Real-time data communication
 
 ### Machine Learning
@@ -37,18 +37,18 @@ By combining medical knowledge, machine learning, and web technologies, DEEP_NEP
 - **scikit-learn** – Data preprocessing and classical ML
 - **SHAP** – Model explainability
 - **Adams** – Hyperparameter optimization
-- **tensorflow** –
-- **cuda** –
-- **tensorflow** –
+- **tensorflow** 
+- **cuda** 
+- **tensorflow** 
 ---
 
 ## 📁 Directory Structure
-DEEP_NEPHRO/main
-–├── biosignals_fb_to_mat_file-main/ # Script to keep iot data updated for our monitoring
-–├── flask app/ # flask api for predictions 
-–├── project/ # our main website files 
-–├── requirements.txt # Python dependencies
-–├── README.md # Project documentation
+**DEEP_NEPHRO/main**
+**├── biosignals_fb_to_mat_file-main/ # Script to keep iot data updated for our monitoring**
+**├── flask app/ # flask api for predictions **
+**├── project/ # our main website files **
+**├── requirements.txt # Python dependencies**
+**├── README.md # Project documentation**
 
 
 ---
